@@ -2,19 +2,19 @@
 
 ## App requirements and goals
 
-The app was designed to provide users with a simple and easy to use inventory application. The main goal was to allow users to enter and manage information through a straightforward interface. The app was designed with the user's need for simple navigation and clear controls in mind.
+I designed the app to be a simple inventory tool that is easy to understand and use. My main goal was to let users enter and manage inventory information without making the app feel complicated. I wanted the interface to be clear and straightforward so users could move through the app without getting confused.
 
 ## Screens and features
 
-The app used a main screen with input fields, buttons, and text elements necessary for interacting with the application. The interface was kept simple so that users could understand what each element was used for without unnecessary complexity. The UI design focused on making the available features easy to find and use.
+The app uses a main login screen, an inventory screen, an add-item screen, and an SMS permission screen. I kept the layout simple so the important features are easy to find. Each screen was built to give the user only the controls they need for that part of the app, which made the overall design feel more organized.
 
 ## Coding approach
 
-I approached the coding process by implementing the application one feature at a time and testing each part as I developed it. I used Java for the application's functionality and XML for the user interface. Breaking the development process into smaller parts made it easier to identify problems and make changes. I can apply this approach to future projects by implementing and testing individual features instead of trying to develop the entire application at once.
+I built the app one part at a time and tested each feature as I went. I used Java for the app logic and XML for the layouts. Working this way made it easier to catch problems early instead of waiting until the whole app was finished. I think this is a good approach to carry into future projects because it keeps the work manageable and helps with troubleshooting.
 
 ## Testing
 
-I tested the application by running it in Android Studio and interacting with the different controls and inputs. This allowed me to verify that the features worked as intended and identify problems that needed to be corrected. Testing is important because code that appears correct may still behave differently when the application is actually running. Testing also helped confirm that the user interface and application functionality worked together properly.
+I tested the app in Android Studio by running it in the emulator and using the buttons and text fields like a real user would. That helped me see whether each screen worked the way it was supposed to. Testing was important because some issues only showed up once the app was actually running, especially with screen styling and input behavior.
 
 ## Challenges and innovation
 
